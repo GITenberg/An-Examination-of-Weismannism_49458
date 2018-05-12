@@ -1,4 +1,8 @@
 _repo: An-Examination-of-Weismannism_49458
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49458-h/images/cover.jpg
 creator:
   author:
     agent_name: Romanes, George John
@@ -12,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7037
     wikipedia: http://en.wikipedia.org/wiki/George_Romanes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49458#An-Examination-of-Weismannism
 gutenberg_issued: '2015-07-16'
 gutenberg_type: Text
 identifiers:
